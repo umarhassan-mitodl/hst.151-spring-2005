@@ -1,0 +1,48 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Health and Medicine",
+      "Pharmacology and Toxicology"
+    ]
+  ],
+  "legacy_uid": "03f30f10-eafd-4524-f62c-ef13ada91278",
+  "instructors": {
+    "content": [
+      "7b191554-6ce5-325f-7324-d8649b4c9e22",
+      "1a10427e-5b06-e133-eafe-e90961f0b2e0",
+      "4557a00a-99de-f7bc-2706-e40b68467cf0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "91ecc2fd-c99b-b06e-1a96-dbcb6636e476",
+    "website": "hst-151-principles-of-pharmacology-spring-2005"
+  },
+  "course_title": "Principles of Pharmacology",
+  "course_description": "The object of the course is to teach students an approach to the study of pharmacologic agents. It is not intended to be a review of the pharmacopoeia. The focus is on the basic principles of biophysics, biochemistry and physiology, as related to the mechanisms of drug action, biodistribution and metabolism. The course consists of lectures and student-led case discussions. Topics covered include: mechanisms of drug action, dose-response relations, pharmacokinetics, drug delivery systems, drug metabolism, toxicity of pharmacological agents, drug interaction and substance abuse. Selected agents and classes of agents are examined in detail.",
+  "department_numbers": [
+    "HST"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "HST.151",
+  "course_image_thumbnail": {
+    "content": "fdfca2f0-a30f-7b53-3197-0270aaecdd87",
+    "website": "hst-151-principles-of-pharmacology-spring-2005"
+  },
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Presentation Assignments with Examples",
+    "Problem Sets with Solutions",
+    "Written Assignments"
+  ],
+  "site_uid": "fff8a810-c422-422f-9c4b-23a1ea41027b",
+  "site_short_id": "hst.151-spring-2005",
+  "site_url_path": "courses/hst-151-principles-of-pharmacology-spring-2005",
+  "title": "Course Metadata"
+}
