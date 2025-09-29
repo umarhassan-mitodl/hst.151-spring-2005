@@ -8,6 +8,8 @@ description: 'This resource includes information regarding overview of anti-infl
 file: /courses/hst-151-principles-of-pharmacology-spring-2005/4e25135a3fc16447af325442e356daf0_0215_2_weinblatt.pdf
 file_size: 252078
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

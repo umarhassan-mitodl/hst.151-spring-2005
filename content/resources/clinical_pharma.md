@@ -7,6 +7,8 @@ description: 'This resource includes information about the clinical scenario: a 
 file: /courses/hst-151-principles-of-pharmacology-spring-2005/f9617db05438b919c456425b7069ff50_clinical_pharma.pdf
 file_size: 137090
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

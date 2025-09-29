@@ -9,6 +9,8 @@ description: This resource consists of information about pharmokinetics, recepto
 file: /courses/hst-151-principles-of-pharmacology-spring-2005/fbb9cb188c918956edcb8eb31c8a6a1f_2004_midterm.pdf
 file_size: 487633
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

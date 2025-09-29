@@ -24,6 +24,7 @@
     "website": "hst-151-principles-of-pharmacology-spring-2005"
   },
   "course_title": "Principles of Pharmacology",
+  "hide_download": true,
   "course_description": "The object of the course is to teach students an approach to the study of pharmacologic agents. It is not intended to be a review of the pharmacopoeia. The focus is on the basic principles of biophysics, biochemistry and physiology, as related to the mechanisms of drug action, biodistribution and metabolism. The course consists of lectures and student-led case discussions. Topics covered include: mechanisms of drug action, dose-response relations, pharmacokinetics, drug delivery systems, drug metabolism, toxicity of pharmacological agents, drug interaction and substance abuse. Selected agents and classes of agents are examined in detail.",
   "department_numbers": [
     "HST"
@@ -34,6 +35,7 @@
     "content": "fdfca2f0-a30f-7b53-3197-0270aaecdd87",
     "website": "hst-151-principles-of-pharmacology-spring-2005"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Exams with Solutions",
     "Lecture Notes",

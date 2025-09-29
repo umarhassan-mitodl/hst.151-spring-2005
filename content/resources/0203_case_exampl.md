@@ -8,6 +8,8 @@ description: 'This resource includes information about organophosphate poisoning
 file: /courses/hst-151-principles-of-pharmacology-spring-2005/f10112f37cc7179fc2a8c01d5b954cad_0203_case_exampl.pdf
 file_size: 180132
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

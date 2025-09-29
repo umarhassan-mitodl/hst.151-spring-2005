@@ -6,6 +6,8 @@ description: This resource includes information about what are seizures, classif
 file: /courses/hst-151-principles-of-pharmacology-spring-2005/950eaeebf2ad77da1983f0b2208839de_anticonvulsants.pdf
 file_size: 76098
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,8 @@
 content_type: page
 description: The study material contains the exam reviews of midterm and final exam,
   useful references and selected periodicals for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

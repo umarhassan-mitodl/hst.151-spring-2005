@@ -9,6 +9,8 @@ description: This resource includes information about the means by which a drug 
 file: /courses/hst-151-principles-of-pharmacology-spring-2005/0f84cc2ea130aa05a330e73105ff7c5e_0215_1_langer.pdf
 file_size: 611694
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

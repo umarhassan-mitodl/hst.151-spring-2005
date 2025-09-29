@@ -5,6 +5,8 @@ description: This resource includes information about summaries of pharmacokinet
 file: /courses/hst-151-principles-of-pharmacology-spring-2005/a7687af6e18fde50a8acbe5378cc5442_0202_2_shafer.pdf
 file_size: 155696
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

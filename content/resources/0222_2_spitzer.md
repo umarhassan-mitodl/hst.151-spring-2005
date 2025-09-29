@@ -8,6 +8,8 @@ description: This resource includes information about overview and history of so
 file: /courses/hst-151-principles-of-pharmacology-spring-2005/c7e3beab4c9c66883eb264cb61f2615d_0222_2_spitzer.pdf
 file_size: 210742
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -7,6 +7,8 @@ description: This resource includes information about the need of drug developme
 file: /courses/hst-151-principles-of-pharmacology-spring-2005/98e5bd07f63d37618bb361f8997ad3db_0224_1_kohane.pdf
 file_size: 162851
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

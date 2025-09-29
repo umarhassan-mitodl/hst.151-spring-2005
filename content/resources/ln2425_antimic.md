@@ -8,6 +8,8 @@ description: This resource includes information about introduction to pharmacolo
 file: /courses/hst-151-principles-of-pharmacology-spring-2005/262b5e61fb33b8a4707ee61bac7ae9af_ln2425_antimic.pdf
 file_size: 290245
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

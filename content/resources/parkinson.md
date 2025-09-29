@@ -6,6 +6,8 @@ description: This resource includes information about  movement disorders, pharm
 file: /courses/hst-151-principles-of-pharmacology-spring-2005/d0f6b7a6adb4b3720a02d4fb81db7a26_parkinson.pdf
 file_size: 183168
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,6 +3,8 @@ content_type: page
 description: The assignments section discusses about the three assignments which students
   must complete in this class - a case discussion, a drug evaluation report, and a
   problem set.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
